@@ -1,4 +1,4 @@
-## Hello, B S Poorvaj Pranav here
+# Hello, B S Poorvaj Pranav here!
 
 ### Offensive Security Practitioner | Aspiring Red Teamer
 
@@ -6,7 +6,7 @@
 
 I’m a computer science sophomore with a passion for cybersecurity, specializing in **Offensive Security**. I enjoy identifying and exploiting vulnerabilities, testing systems to strengthen their defenses, and enhancing their overall resilience. 
 
-**Certifcations**:- eJPT
+**Certifications**:- eJPT
 
 **Portfolio**:- [poorvaj.tech](https://poorvaj.tech)
 
