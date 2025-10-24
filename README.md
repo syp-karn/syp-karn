@@ -1,6 +1,6 @@
 # Hello, B S Poorvaj Pranav here!
 
-### Offensive Security Practitioner | Aspiring Red Teamer
+### Offensive Security Practitioner
 
 ### About Me
 
