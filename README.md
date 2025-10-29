@@ -1,4 +1,4 @@
-# Hello, B S Poorvaj Pranav here!
+# Hello, Poorvaj here!
 
 ### Offensive Security Practitioner
 
