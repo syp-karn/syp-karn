@@ -14,7 +14,7 @@ I’m a computer science sophomore with a passion for cybersecurity, specializin
 
 ### What's Occupying Me Currently
 - Honing my web application pentesting skills
-- Exploring the Cloud and Machine Learning
+- Exploring Agentic AI
 ---
 
 ### Tech I Use
