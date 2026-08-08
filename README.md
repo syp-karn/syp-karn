@@ -6,15 +6,16 @@
 
 I’m a computer science sophomore with a passion for cybersecurity, specializing in **Offensive Security**. I enjoy identifying and exploiting vulnerabilities, testing systems to strengthen their defenses, and enhancing their overall resilience. 
 
-**Certifications**:- eJPT
+**Certifications**:- CWES, eJPT
 
 **Portfolio**:- [poorvaj.tech](https://poorvaj.tech)
 
 ---
 
 ### What's Occupying Me Currently
-- Honing my web application pentesting skills
-- Exploring Agentic AI
+- Hunting bugs
+- Trying vulnerability reasearch
+- Familiarizing myself with AD
 ---
 
 ### Tech I Use
